@@ -1,0 +1,4 @@
+rest:
+  url:
+    balance: /api/gbs/banking/v2/accounts/{accountId}/balance
+    bonifico: /api/gbs/banking/v2.1/accounts/{accountId}/payments/sct/orders
